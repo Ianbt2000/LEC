@@ -1,0 +1,66 @@
+.navbar {
+box-shadow: 2px 2px 5px #000;
+
+
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    color: blue;
+}
+
+.main-header {
+    background-image: url(imagenes/background.jpg);
+    background-size: cover;
+    min-height: 670px;
+
+
+}
+.title {
+    margin-left: 20px ;
+    position: relative;
+    text-align: center;
+    font-size: 5vw;
+    color: rgb(223, 76, 76);
+    background-color: rgba(2, 15, 22, 0.418) ;
+    box-shadow: 2px 2px 5px #000;
+}
+
+.carousel-inner img {
+    max-height: 600px;
+    width: 80%;
+
+
+}
+
+.alert{
+    font-size: 2vw;
+
+}
+
+footer {
+    
+    width: 100%;
+    height: 10%;
+    background-color: rgb(49, 37, 3);
+    padding: 0px;
+    
+
+
+}
+
+footer p {
+
+    padding: 10px;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'droid-sans.regular';
+}
+
+.card .card-img-top {
+    max-height: 200px;
+}
+
+.container-fluid .row .embed-responsive {
+    max-width: 600px;
+}
